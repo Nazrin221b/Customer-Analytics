@@ -8,6 +8,8 @@ The data has been preprocessed and there are no missing values.
 ![image](https://user-images.githubusercontent.com/63057970/190853596-c0cb916b-a56b-4165-bb3b-ff7a164f69ed.png)
 
 
+# K-means Clustering Results
+![image](https://user-images.githubusercontent.com/63057970/190855896-6da2f6e5-3396-4300-b293-095d71bbfb38.png)
 
 
 

@@ -13,8 +13,8 @@ The data has been preprocessed and there are no missing values.
 
 
 # K-means With PCA Results
+![image](https://user-images.githubusercontent.com/63057970/190859464-6e2a57fe-c948-4849-ab6d-82fc6132afd4.png)
 
-![image](https://user-images.githubusercontent.com/63057970/190859335-e6dd1916-5b32-46aa-9518-a1a9cf9fd9fe.png)
 
 
 
